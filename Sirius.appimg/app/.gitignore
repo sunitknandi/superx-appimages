@@ -1,0 +1,37 @@
+# Audio Files
+
+/static/media_root/audio/*
+
+
+# Profile Pictures
+
+/static/media_root/profilepics/*
+
+
+# Admin Static Files
+
+/static/static_root/admin/
+
+
+# Images
+
+/downloads/
+
+
+# Local Settings
+
+/Intelligence/settings/local.py
+
+# Django Cache
+
+/__pycache__/
+/Intelligence/__pycache__/
+/Intelligence/aws/__pycache__/
+/Intelligence/settings/__pycache__/
+/songplayer/__pycache__/
+/songplayer/migrations/__pycache__/
+/songplayer/crons/__pycache__/
+/songplayer/util/__pycache__/
+/user/__pycache__/
+/user/migrations/__pycache__/
+
