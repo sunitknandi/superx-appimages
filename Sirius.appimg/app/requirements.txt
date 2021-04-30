@@ -40,7 +40,7 @@ pylint==2.1.1
 python-dateutil==2.7.3
 pytz==2018.5
 requests==2.19.1
-rsa==4.0
+rsa==4.7
 s3transfer==0.1.13
 selenium==3.4.3
 six==1.11.0
